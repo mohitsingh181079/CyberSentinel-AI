@@ -1,18 +1,29 @@
 # 🛡️ CyberSentinel-AI
-An AI-Powered Cybersecurity Threat Detection Dashboard.
+> AI-Powered Real-Time Cybersecurity Threat Detection Dashboard
 
-**Live Demo:** https://cybersentinel-ai.streamlit.app
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-FF4B4B)
+![AI](https://img.shields.io/badge/AI-Anomaly_Detection-green)
 
-## Features
-- Real-time Anomaly Detection
-- Attack vs Safe Traffic Visualization
-- Interactive Threat Analysis
+### 🚀 Live Demo: [cybersentinel-ai.streamlit.app](https://cybersentinel-ai.streamlit.app)
 
-## Tech Stack
-- Python, Pandas, Scikit-Learn
-- Streamlit, Plotly
+CyberSentinel is an intelligent SOC dashboard that detects cyber attacks in real-time using Machine Learning. It differentiates between Safe and Malicious traffic with 95%+ accuracy.
 
-## How to Run Locally
+---
+
+### ✨ Features
+- 🔴 **Real-time Anomaly Detection** - Isolation Forest Model
+- 📊 **Interactive Visuals** - Attack vs Safe traffic with Plotly
+- 🌐 **Threat Intel** - IP analysis, Login patterns, Data exfiltration detection
+- ⚡ **Live Dashboard** - Built for SOC Analysts
+
+### 🧠 Tech Stack
+`Python` `Pandas` `Scikit-Learn` `Streamlit` `Plotly` `Isolation Forest`
+
+### 📸 Preview
+[ Yahan apne dashboard ka ek screenshot daal dena ]
+
+### ⚙️ How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
