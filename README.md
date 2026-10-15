@@ -21,7 +21,7 @@ CyberSentinel is an intelligent SOC dashboard that detects cyber attacks in real
 `Python` `Pandas` `Scikit-Learn` `Streamlit` `Plotly` `Isolation Forest`
 
 ### 📸 Preview
-[ Yahan apne dashboard ka ek screenshot daal dena ]
+![Dashboard Preview](preview.png)
 
 ### ⚙️ How to Run
 ```bash
